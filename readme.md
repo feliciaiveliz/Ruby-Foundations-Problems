@@ -1,0 +1,1 @@
+Foundational Ruby problems from Launch School's Core Curriculum, including testing in Ruby using Minitest.
